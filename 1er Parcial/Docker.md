@@ -21,8 +21,10 @@ Docker run -d -p 5050:5050 --name flask-app my-flask-image
 
 http://localhost:5050
 
+```console
 Docker ps
 Docker exec -it flask-app bash
+```
 
 Extract Transform Load (ETL)
 Recolectar -> Construir -> Almacenar -> Procesar
