@@ -1,6 +1,9 @@
 Volumen y velocidad impactan todas las capas del flujo
+
 Variedad
+
 Veracidad
+
 Valor
 
 
